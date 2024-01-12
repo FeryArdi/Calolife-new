@@ -1,0 +1,1 @@
+Pengembangan ini sampai pada desain awal UI/UX bagian login aplikasi calolife yang membutuhkan Username, Email dan password. Pengerjaan akan dilanjutkan pada tahap berikutnya.
